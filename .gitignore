@@ -4,6 +4,14 @@
 # Log file
 *.log
 
+# Idea and other stuff
+.idea
+.gradle
+*.iml
+build/
+.DS_STORE
+local.properties
+
 # BlueJ files
 *.ctxt
 
