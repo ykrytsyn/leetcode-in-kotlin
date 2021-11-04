@@ -5,10 +5,10 @@
 *.log
 
 # Idea and other stuff
-.idea
-.gradle
+/.idea/
+/.gradle/
 *.iml
-build/
+/build/
 .DS_STORE
 local.properties
 
