@@ -1,7 +1,7 @@
 package leetcode
 
 /**
- * # Problem 62
+ * # 62. Unique Paths
  * [https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)
  *
  * ### A robot is located at the top-left corner of 'm x n' grid (marked 'Start' in the diagram below).
