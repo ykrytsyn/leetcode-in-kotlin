@@ -1,7 +1,7 @@
 package leetcode
 
 /**
- * # Problem 441
+ * # 441. Arranging Coins
  * [https://leetcode.com/problems/arranging-coins/](https://leetcode.com/problems/arranging-coins/)
  *
  * ### You have n coins and you want to build a staircase with these coins.
